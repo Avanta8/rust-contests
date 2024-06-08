@@ -1,0 +1,8 @@
+[workspace]
+resolver = "2"
+
+members = [
+    "c_beautiful_triple_pairs",
+    "main",
+    "algo_lib",
+]
